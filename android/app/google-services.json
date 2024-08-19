@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957923323788",
+    "project_id": "hostels-finders-app-5bf02",
+    "storage_bucket": "hostels-finders-app-5bf02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957923323788:android:9617ad318976e9230ff0a9",
+        "android_client_info": {
+          "package_name": "com.example.hostels_finders_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR81hTmq0EYoyuz0qFKx7uI-tgBYDYmtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
